@@ -8,3 +8,5 @@ For this project, I created, loaded, and rendered some basic 3D models. In addit
 * Wireframe monster and half-scale monster loaded and drawn from .obj files
 * Cubes as a PShape created and rendered 3 times with 3 transformations
 * Triangle fans circle and hex with HSB color and stroke
+
+![Demo File](https://github.com/RebeccaVelez/3D-Rendering/blob/main/project_3.gif)
